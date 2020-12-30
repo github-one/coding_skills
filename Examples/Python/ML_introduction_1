@@ -1,3 +1,4 @@
+```Python
 #Lesson-01
 
 from sklearn.datasets import load_boston
@@ -89,3 +90,4 @@ for _ in range(10):
     plt.plot(sub_x, new_y)
     
     
+```
